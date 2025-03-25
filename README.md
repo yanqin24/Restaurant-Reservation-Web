@@ -30,3 +30,22 @@ Yan's Feast is a fully responsive web application that allows users to browse di
 git clone https://github.com/your-username/restaurant-reservation-app.git
 cd restaurant-reservation-app
 npm install
+
+### Run Locally
+npm run dev
+Then open http://localhost:3000 in your browser.
+
+##Project Structure
+├── public/                  # Static assets
+├── src/
+│   ├── Components/          # All reusable components
+│   ├── App.jsx              # Root component
+│   ├── main.jsx             # Entry point
+├── index.html               # Root HTML
+├── .gitignore
+├── package.json
+├── vite.config.js
+
+##License
+This project is licensed under the MIT License.
+Icons and images are sourced from Google Fonts, CSS.gg, and Unsplash under their respective open licenses. See licenses.txt for full attribution.
