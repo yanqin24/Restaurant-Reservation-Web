@@ -1,0 +1,123 @@
+<Web icon>
+1.icon--From Yan Qin
+
+<Header>
+1. Logo--From Yan Qin
+
+
+2.Hamburger Menu Icon
+https://fonts.google.com/icons?selected=Material+Symbols+Outlined:menu:FILL@0;wght@400;GRAD@0;opsz@24&icon.size=24&icon.color=%23000000
+
+license: Icons from Google Fonts Icons, licensed under the Apache License 2.0.
+
+
+
+<Footer>
+1.facebook
+https://css.gg/icon/facebook
+license: Icons used from CSS.gg, licensed under the MIT License.
+
+2.Instgram
+https://css.gg/icon/instagram
+license: Icons used from CSS.gg, licensed under the MIT License.
+
+3.Twitter
+https://css.gg/icon/twitter
+license: Icons used from CSS.gg, licensed under the MIT License.
+
+<Welcome page background>
+1.https://unsplash.com/photos/round-white-ceramic-plate-filled-with-waffle-hrlvr2ZlUNk?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+
+
+<Specialty>
+1. Eggs Benedict with Smoked Salmon
+https://unsplash.com/photos/a-plate-of-food-uK-7jxH73Z8?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+
+license: Images from Unsplash, used under the Unsplash License.
+
+
+2. Glazed Salmon with Asparagus Risotto
+https://unsplash.com/photos/a-white-plate-topped-with-fish-and-veggies-V0TUKexdlb4?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+
+license: Images from Unsplash, used under the Unsplash License.
+
+3. Creative Sushi Platter
+https://unsplash.com/photos/sushi-with-toppings-on-white-board-near-chopsticks-M2S1qeCIJzI?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+
+license: Images from Unsplash, used under the Unsplash License.
+
+4. Truffle Cheese Bacon Fries
+https://unsplash.com/photos/sliced-pomegranate-fruit-and-grapes-on-stainless-steel-fork-8CxOg9A0oCQ?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+
+license: Images from Unsplash, used under the Unsplash License.
+
+5. Green Herb Salad
+https://unsplash.com/photos/top-view-salad-with-guacamole-oaz0raysASk?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+
+license: Images from Unsplash, used under the Unsplash License.
+
+6. Traditional Butter Curry Tofu
+https://unsplash.com/photos/green-vegetable-on-white-ceramic-plate-PqsImnjuElM?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+
+license: Images from Unsplash, used under the Unsplash License.
+
+
+<Menu>
+1. pizza
+https://unsplash.com/photos/pizza-on-plate-Ae7jQFDTPk4?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+
+license: Images from Unsplash, used under the Unsplash License.
+
+2. Pasta Perfection
+https://unsplash.com/photos/rolled-pasta-7zfQ6sbWVyE?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+
+license: Images from Unsplash, used under the Unsplash License.
+
+3. Ocean's Bounty Rice
+https://unsplash.com/photos/a-plate-of-food-with-tomatoes-and-rice-E0KtOjQJipM?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+
+license: Images from Unsplash, used under the Unsplash License.
+
+ 
+4. Lava Chocolate 
+https://unsplash.com/photos/oozing-caramel-cake-gHm50qaMaXc?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+
+license: Images from Unsplash, used under the Unsplash License.
+
+
+5. Lemon tart
+https://unsplash.com/photos/blueberries-on-bowls-OrkEasJeY74?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+
+license: Images from Unsplash, used under the Unsplash License.
+
+6. Berry Good Pancakes
+https://unsplash.com/photos/rolled-pasta-7zfQ6sbWVyE?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+
+license: Images from Unsplash, used under the Unsplash License.
+
+7. Floral Dream
+https://unsplash.com/photos/clear-footed-glass-filled-with-clear-liquid-v5a1uh84n5o?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+
+license: Images from Unsplash, used under the Unsplash License.
+
+8. Mint orange
+https://unsplash.com/photos/brass-colored-cup-filled-with-crushed-ice-with-mint-YeH5EIRFCIs?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+
+license: Images from Unsplash, used under the Unsplash License.
+
+9. Watermelon soda
+https://unsplash.com/photos/sliced-watermelon-with-lemon-on-shot-glass-XoN3v3Ge7EE?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+
+license: Images from Unsplash, used under the Unsplash License.
+
+
+<Membership>
+1.Join Us
+https://unsplash.com/photos/woman-holding-fork-in-front-table-Orz90t6o0e4?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+
+license: Images from Unsplash, used under the Unsplash License.
+
+2.Thank you note:
+https://unsplash.com/photos/white-box-with-white-ribbon-baLUAKBNsG4?
+
+license: Images from Unsplash, used under the Unsplash License.

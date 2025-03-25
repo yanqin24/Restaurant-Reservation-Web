@@ -1,0 +1,51 @@
+[
+  {
+    "dishId": 1,
+    "img":"/images/Benedict Egg.jpg",
+    "spot": "Eggs Benedict with Smoked Salmon",
+    "alt": "Classic Eggs Benedict with Smoked Salmon",
+    "price": "$28",
+    "description": "This delightful dish features perfectly poached eggs, nestled atop a layer of premium smoked salmon and a toasted English muffin. The creamy hollandaise sauce, made in-house, is draped generously over the eggs, delivering a silky richness that elevates every bite."
+  },
+  {
+    "dishId": 2,
+    "img":"/images/salmon.jpg",
+    "spot": "Glazed Salmon with Asparagus Risotto",
+    "alt": "Glazed Salmon with Asparagus Risotto and Balsamic Reduction",
+    "price": "$32.95",
+    "description": "A beautifully seared salmon filet glazed with a sweet and tangy cherry reduction, served atop a creamy asparagus risotto that perfectly balances flavors and textures. Perfect for a gourmet dining experience, this dish combines the freshness of seasonal vegetables with the richness of premium salmon."
+  },
+  {
+    "dishId": 3,
+    "img":"/images/Sushi.jpg",
+    "spot": "Creative Sushi Platter",
+    "alt": "This creative sushi platter offers a delightful fusion of visual and culinary artistry",
+    "price": "$18.99",
+    "description": "Fresh cherry tomatoes, smoked salmon, and perfectly seasoned rice come together harmoniously, complemented by crisp lettuce and aromatic herbs. A sprinkle of black sesame seeds and a touch of soy sauce enhance the flavors, making every bite a masterpiece."
+  },
+  {
+    "dishId": 4,
+    "img":"/images/bacon fries.jpg",
+    "spot": "Truffle Cheese Bacon Fries",
+    "alt": "Truffle Cheese Bacon Fries",
+    "price": "$14.99",
+    "description": "Golden, crispy fries are topped with creamy, rich cheese sauce, aromatic truffle, and crunchy roasted bacon. A perfect combination of textures and flavors that will leave you craving more."
+  },
+  {
+    "dishId": 5,
+    "img":"/images/salad.jpg",
+    "spot": "Green Herb Salad",
+    "alt": "Green Herb Salad",
+    "price": "$16.99",
+    "description": "This vibrant herb salad features a base of fresh green vegetables, colorful cherry tomatoes, pomegranate seeds, and crunchy almonds. Tossed in a homemade herb dressing, it’s refreshing, nutritious, and a celebration of natural flavors."
+  },
+  {
+    "dishId": 6,
+    "img":"/images/Tofu.jpg",
+    "spot": "Traditional Butter Curry Tofu",
+    "alt": "Traditional Butter Curry Tofu",
+    "price": "$13.99",
+    "description": "This traditional butter curry tofu dish features tender tofu cubes smothered in a rich and creamy butter curry sauce, served over fluffy white rice. A sprinkle of fresh cilantro adds a refreshing touch to this comforting meal."
+  }
+  
+]

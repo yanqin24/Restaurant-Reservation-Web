@@ -1,0 +1,77 @@
+{
+  "MainCourse": [
+    {
+      "img": "/images/pasta.jpg",
+      "alt": "A plate of classic Italian pasta with tomato basil sauce and parmesan",
+      "text": "Classic Italian Pasta",
+      "name": "Pasta Perfection",
+      "description": "Handcrafted pasta tossed in a flavorful tomato basil sauce with a touch of garlic and parmesan.",
+      "price": "$12.99"
+    },
+    {
+      "img": "/images/pizza.jpg",
+      "alt": "A gourmet veggie pizza topped with spinach, mozzarella, and artichokes",
+      "text": "Gourmet Veggie Pizza",
+      "name": "Veggie Paradise Pizza",
+      "description": "Thin-crust pizza topped with fresh spinach, mozzarella, and artichokes for a delightful bite.",
+      "price": "$18.99"
+    },
+    {
+      "img": "/images/Seafood fried rice.jpg",
+      "alt": "A bowl of seafood fried rice with jasmine rice, seafood, and fresh vegetables",
+      "text": "Seafood Fried Rice",
+      "name": "Ocean's Bounty Rice",
+      "description": "A fragrant blend of jasmine rice, succulent seafood, and fresh vegetables.",
+      "price": "$15.99"
+    }
+  ],
+  "Desserts": [
+    {
+      "img": "/images/lava chocolate.jpg",
+      "alt": "A molten lava chocolate cake with a crispy exterior and gooey center",
+      "text": "Lava Chocolate Cake",
+      "name": "Molten Lava Cake",
+      "description": "A rich and gooey chocolate cake with a crispy exterior and molten center.",
+      "price": "$7.99"
+    },
+    {
+      "img": "/images/pancake.jpg",
+      "alt": "A stack of fruit and berry pancakes topped with fresh figs, strawberries, and blueberries",
+      "text": "Fruit & Berry Pancakes",
+      "name": "Berry Good Pancakes",
+      "description": "Delicious pancakes served with fresh figs, strawberries, and blueberries for a refreshing treat.",
+      "price": "$8.49"
+    },
+    {
+      "img": "/images/lemon tart.jpg",
+      "alt": "A citrus tart garnished with blackberries and orange slices",
+      "text": "Citrus Tart",
+      "name": "Zesty Citrus Tart",
+      "description": "A tangy lemon tart garnished with fresh blackberries and orange slices, offering a burst of flavor.",
+      "price": "$7.49"
+    }
+  ],
+  "Drinks": [
+    {
+      "img": "/images/Floral Dream.jpg",
+      "alt": "A creamy floral drink topped with a red rose",
+      "name": "Floral Dream",
+      "description": "A creamy and delicate drink topped with a red rose.",
+      "price": "$5.99"
+    },
+    {
+      "img": "/images/mint soda.jpg",
+      "alt": "A glass of mint soda with crushed ice",
+      "name": "Minty Breeze",
+      "description": "A cool mint-infused soda with crushed ice for ultimate refreshment.",
+      "price": "$3.99"
+    },
+    {
+      "img": "/images/watermelon.jpg",
+      "alt": "A refreshing watermelon lime drink",
+      "name": "Watermelon Lime Cooler",
+      "description": "A tangy and sweet watermelon drink with a touch of lime.",
+      "price": "$4.50"
+    }
+  ]
+}

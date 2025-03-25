@@ -1,0 +1,107 @@
+[
+  {
+    "reviewId": "1",
+    "description": "Yan Restaurant redefined our dining experience! From the exquisite Eggs Benedict to the perfectly grilled salmon, every dish was a masterpiece. Highly recommend for anyone looking for a gastronomic delight!",
+    "stars": 5,
+    "date": "13 November 2023",
+    "name": "Rachel Smith"
+  },
+  {
+    "reviewId": "2",
+    "description": "An incredible culinary journey at Yan Restaurant! The sushi platter was both visually stunning and packed with flavor. The ambiance and friendly staff made it a night to remember.",
+    "stars": 4,
+    "date": "2 July 2022",
+    "name": "Sarah Johnson"
+  },
+  {
+    "reviewId": "3",
+    "description": "An adventure for the taste buds! Yan Restaurant's butter curry tofu was rich and flavorful, paired perfectly with fluffy rice. A must-visit for anyone who loves comfort food with a twist.",
+    "stars": 5,
+    "date": "9 July 2023",
+    "name": "Michael Wong"
+  },
+  {
+    "reviewId": "4",
+    "description": "Good overall experience, but the wait time for our food was longer than expected. The flavors were worth it, though!",
+    "stars": 3,
+    "date": "22 September 2021",
+    "name": "Emily Davis"
+  },
+  {
+    "reviewId": "5",
+    "description": "I had high hopes for Yan Restaurant, but the truffle bacon fries fell short of expectations. The presentation was nice, but the flavors didn't quite deliver.",
+    "stars": 3,
+    "date": "24 July 2023",
+    "name": "Christopher Patel"
+  },
+  {
+    "reviewId": "6",
+    "description": "Yan Restaurant exceeded all expectations with their Green Herb Salad and glazed salmon. The flavors were fresh, and the attention to detail was unparalleled. Can't wait to come back!",
+    "stars": 5,
+    "date": "18 June 2022",
+    "name": "Jessica Martinez"
+  },
+  {
+    "reviewId": "7",
+    "description": "Yan Restaurant offered an exceptional dining experience. The truffle cheese bacon fries and sushi platter were the highlights of the evening. Highly recommend for a cozy dinner outing.",
+    "stars": 5,
+    "date": "4 March 2023",
+    "name": "Ryan Thompson"
+  },
+  {
+    "reviewId": "8",
+    "description": "Absolutely loved our meal at Yan Restaurant! The seamless reservation process and delicious dishes made for an unforgettable evening. Can't wait to explore more of their menu!",
+    "stars": 5,
+    "date": "5 December 2022",
+    "name": "Amanda Garcia"
+  },
+  {
+    "reviewId": "9",
+    "description": "Dining at Yan Restaurant was a dream come true! The sushi platter was fresh and creative, and the butter curry tofu was simply divine. A perfect place for a weekend dinner.",
+    "stars": 5,
+    "date": "5 November 2023",
+    "name": "Kevin Wilson"
+  },
+  {
+    "reviewId": "10",
+    "description": "Yan Restaurant made our dinner unforgettable! From the warm ambiance to the beautifully plated dishes, every moment was a delight.",
+    "stars": 5,
+    "date": "8 May 2022",
+    "name": "Lauren Rodriguez"
+  },
+  {
+    "reviewId": "11",
+    "description": "Yan Restaurant’s team provided us with a cozy and flavorful evening. The Green Herb Salad was light and refreshing, while the truffle fries added a decadent touch.",
+    "stars": 5,
+    "date": "2 March 2024",
+    "name": "Brandon Lee"
+  },
+  {
+    "reviewId": "12",
+    "description": "A truly magical experience! The butter curry tofu was bursting with flavors, and the fresh herb salad was a perfect complement. Highly recommend Yan Restaurant for food lovers.",
+    "stars": 5,
+    "date": "1 September 2023",
+    "name": "Jonathan Brown"
+  },
+  {
+    "reviewId": "13",
+    "description": "Yan Restaurant provided a remarkable experience. From the sushi platter to the attentive service, every detail was just perfect. A must-visit!",
+    "stars": 5,
+    "date": "20 March 2023",
+    "name": "Samantha Taylor"
+  },
+  {
+    "reviewId": "14",
+    "description": "The attentive service and the beautifully presented dishes at Yan Restaurant made for a memorable meal. Would love to return for their signature dishes.",
+    "stars": 5,
+    "date": "3 October 2022",
+    "name": "Daniel Martinez"
+  },
+  {
+    "reviewId": "15",
+    "description": "The Green Herb Salad was delightful, but the butter curry tofu lacked depth in flavor. An overall decent experience, but room for improvement.",
+    "stars": 3,
+    "date": "15 December 2023",
+    "name": "Ashley Nguyen"
+  }
+]

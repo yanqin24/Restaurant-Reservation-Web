@@ -1,0 +1,18 @@
+#root {
+text-align: center;
+width: 100%;
+}
+
+.app{
+background-color: var(--primary-bg);
+--headerFooter-bg:#eb8059 ;
+--headerFooter-font-color: black;
+
+}
+
+.app.dark {
+--primary-bg:#65675c;
+--headerFooter-bg:#d458c1;
+--headerFooter-font-color: white;
+
+}
