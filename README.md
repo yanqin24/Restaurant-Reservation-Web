@@ -39,6 +39,7 @@ npm run dev
 Then open http://localhost:3000 in your browser.
 
 ## Project Structure
+```bash
 ├── public/                  # Static assets
 ├── src/
 │   ├── Components/          # All reusable components
@@ -48,7 +49,7 @@ Then open http://localhost:3000 in your browser.
 ├── .gitignore
 ├── package.json
 ├── vite.config.js
-
+```
 ## License
 This project is licensed under the MIT License.
 Icons and images are sourced from Google Fonts, CSS.gg, and Unsplash under their respective open licenses. See licenses.txt for full attribution.
