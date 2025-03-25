@@ -14,15 +14,13 @@ Yan's Feast is a fully responsive web application that allows users to browse di
 
 ## 💡 Tech Stack
 - **Frontend**: React + Vite
-- **Styling**: CSS Modules (per-component styling)
 - **State Management**: React Hooks (`useState`)
-- **UI Libraries**: Custom-built components, native HTML/CSS (no UI library)
 - **Assets**: Icons from Google Fonts & CSS.gg, images from Unsplash
 
 ## 🛠️ Getting Started
 
 ### Prerequisites
-- Node.js (v16+ recommended)
+- Node.js
 - npm or yarn
 
 ### 📦 Installation
